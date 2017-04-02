@@ -31,8 +31,8 @@ Example
 •	NAG000003452752 – S3 North American Group
 
 .DESCRIPTION
-    ComputerRename is invoked with the default ps1 wrapper available here
-    \\ple_powersys1\powerdata\v-alunde\Tools\Scripts\DefaultPowerShellScriptLauncher.cmd
+    ComputerRename is invoked with the default ps1 wrapper
+    
 .PARAMETER
     This file has no parameters
 #>
