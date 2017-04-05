@@ -1,0 +1,7 @@
+c:\users\v-alunde\documents\visual studio 2015\Projects\StopTime\StopTime\bin\Debug\StopTime.exe.config
+c:\users\v-alunde\documents\visual studio 2015\Projects\StopTime\StopTime\bin\Debug\StopTime.exe
+c:\users\v-alunde\documents\visual studio 2015\Projects\StopTime\StopTime\bin\Debug\StopTime.pdb
+c:\users\v-alunde\documents\visual studio 2015\Projects\StopTime\StopTime\obj\Debug\StopTime.exe
+c:\users\v-alunde\documents\visual studio 2015\Projects\StopTime\StopTime\obj\Debug\StopTime.pdb
+c:\users\v-alunde\documents\visual studio 2015\Projects\StopTime\StopTime\bin\Debug\StopTime.exe.CodeAnalysisLog.xml
+c:\users\v-alunde\documents\visual studio 2015\Projects\StopTime\StopTime\bin\Debug\StopTime.exe.lastcodeanalysissucceeded
