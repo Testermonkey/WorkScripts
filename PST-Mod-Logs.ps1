@@ -4,7 +4,7 @@
 #Folders are arranged \StressTesting\<device>\<passName>\<RS3|RS4|RS>\<bldRevision>\<dateRun>\
 # Builds testParameter = " "<deviceType>_<passName>_<dateRun>_lkg<OSImageVer>_test:PLE-CS-STRESS
 
-$baseFolder = "\\10.200.205.9\New_StressTesting\StressTesting\ZaP"
+$baseFolder = "\\0.0.0.0\New_StressTesting\StressTesting\ZaP"
 $passNames = Get-ChildItem -Path $baseFolder | where {$_.Attributes -match 'Directory'}
 $deviceType = Split-Path $baseFolder -Leaf
 
